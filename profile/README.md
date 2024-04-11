@@ -1,4 +1,4 @@
-## Jobbloom is still under development!
+## GOM is still under development!
 
 ## Hi there 👋
 Welcome to `Gimme Online Mall`, a comprehensive shopping platform for Nigerians. Our app offers a seamless and interactive shopping experience, enabling users to browse, search, and purchase products across a wide range of categories.
