@@ -12,14 +12,14 @@ Welcome to `Gimme Online Mall`, a comprehensive shopping platform for Nigerians.
 - **Reviews and Ratings**: Share your experience and read reviews from other users.
 
 
-### Installing
+### Installaton
 
 When ready, the download link and landing page links will be provided.
 
 ## Built With
 
 - [Expo](https://expo.dev/) - Expo allows you to create universal native apps with React that run on Android, iOS, and the web.
-- [React Native]([https://reactjs.org/](https://reactnative.dev/)) - A powerful and widely-used framework for building cross-platform mobile applications.
+- [React Native](https://reactnative.dev/) - A powerful and widely-used framework for building cross-platform mobile applications.
 - [MongoDB](https://www.mongodb.com/) - Database
 
 
