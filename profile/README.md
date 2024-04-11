@@ -1,12 +1,32 @@
 ## Hi there 👋
 
-<!--
+Welcome to `Gimme Online Mall`, a comprehensive shopping platform for Nigerians. Our app offers a seamless and interactive shopping experience, enabling users to browse, search, and purchase products across a wide range of categories.
 
-**Here are some ideas to get you started:**
+## Features
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **User Authentication**: Secure signup and login functionality.
+- **Product Browsing**: Explore products by categories or search for specific items.
+- **Cart Management**: Add items to your cart and manage them easily.
+- **Order History**: View your past orders and their statuses.
+- **Wishlist**: Save items you're interested in for later.
+- **Reviews and Ratings**: Share your experience and read reviews from other users.
+
+
+### Installing
+
+When ready, the download link and landing page links will be provided.
+
+## Built With
+
+- [Expo](https://expo.dev/) - Expo allows you to create universal native apps with React that run on Android, iOS, and the web.
+- [React Native]([https://reactjs.org/](https://reactnative.dev/)) - A powerful and widely-used framework for building cross-platform mobile applications.
+- [MongoDB](https://www.mongodb.com/) - Database
+
+
+## Authors
+
+
+## License
+
+
+## Acknowledgments
